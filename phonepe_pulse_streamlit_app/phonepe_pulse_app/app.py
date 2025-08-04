@@ -4,7 +4,7 @@ import json
 import os
 
 # Define the base path to the data directory relative to the project root
-DATA_PATH = "pulse/data/map/transaction/hover/country/india/state"
+DATA_PATH = "data/map/transaction/hover/country/india/state"
 
 # Function to load data from a JSON file
 def load_data(path):
